@@ -1,0 +1,1 @@
+# Dragging-the-vertex-of-an-OBJ-as-in-edit-mode-in-blender-on-Babylon.js
