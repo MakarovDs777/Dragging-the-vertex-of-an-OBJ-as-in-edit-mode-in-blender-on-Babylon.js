@@ -7,3 +7,5 @@
 [Gizmo and Dragging the vertex in one (Tricotou dragging ) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#ZCOTAE#0)
 
 [Gizmo and Dragging the vertex in one (Tricotou dragging + Download OBJ button) | Babylon.js Playground](https://playground.babylonjs.com/#856P7M)
+
+[Gizmo and Dragging the vertex in one (Tricotou dragging + Download OBJ button + 2 Gizmo) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#6V1Z25)
