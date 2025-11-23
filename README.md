@@ -13,3 +13,5 @@
 [Gizmo and Dragging the vertex in one (Tricotou dragging + Download OBJ button + 2 Gizmo) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#6V1Z25)
 
 [Gizmo and Dragging the vertex in one (Tricotou dragging + Download OBJ button + Gizmo + XYZ coordinates vertex) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#L3E628#1)
+
+[Gizmo and Dragging the vertex in one (Tricotou dragging + Download OBJ button + Gizmo + XYZ coordinates vertex + Label) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#YJWD3W)
